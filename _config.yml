@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mtanski.github.io
+title: Milosz Tanski
+tagline: The malice of software
+description: My awesome new site
+paginate: 5
